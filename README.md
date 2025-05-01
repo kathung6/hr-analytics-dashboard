@@ -1,5 +1,5 @@
 # HR Analytics Dashboard (Power BI)
-![Dashboard Preview](hr_dashboard_preview.png)
+(hr_dashboard_preview.png)
 ## Features
 
 Cards:
