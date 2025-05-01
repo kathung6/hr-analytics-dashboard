@@ -1,5 +1,3 @@
-# hr-analytics-dashboard
-
 # HR Analytics Dashboard (Power BI)
 
 ## Features
